@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+OS_AUTH_URL = None
+OS_USER_NAME = None
+OS_PASSWORD = None
+OS_PROJECT_NAME = None
+OS_USER_DOMAIN_NAME = None
+OS_PROJECT_DOMAIN_NAME = None
+CHK_STATE_INT = None
+CHK_STATE_RET = None
+CHK_IMG_INT = None
+COMPRESS = None
+PROFILE = None
+PWD_FILE = None
